@@ -20,6 +20,6 @@
 		<module>playmall-manager-pojo</module>
 		<module>playmall-manager-dao</module>
 		<module>playmall-manager-service</module>
-		<module>playmall-manage-web</module>
+		<module>playmall-manager-web</module>
 	</modules>
 </project>
