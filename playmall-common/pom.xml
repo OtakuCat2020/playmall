@@ -5,7 +5,5 @@
     <artifactId>playmall-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.playmall</groupId>
   <artifactId>playmall-common</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
 </project>

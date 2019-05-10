@@ -9,13 +9,15 @@
 	</parent>
 	<artifactId>playmall-manage-web</artifactId>
 	<packaging>war</packaging>
+	<dependencies>
+		<dependency>
+			<groupId>com.playmall</groupId>
+			<artifactId>playmall-manager-service</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 	<dependencyManagement>
 		<dependencies>
-			<dependency>
-				<groupId>com.playmall</groupId>
-				<artifactId>playmall-manager-service</artifactId>
-				<version>0.0.1-SNAPSHOT</version>
-			</dependency>
 			<!-- jsp相关 -->
 		<dependency>
 			<groupId>jstl</groupId>
